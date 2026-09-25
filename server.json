@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/plausible",
   "title": "Plausible",
   "description": "MCP server for plausible",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/plausible",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-plausible",
